@@ -1,0 +1,29 @@
+body {
+    font-family: Helvetica;
+    text-align: center;    
+}
+.header {
+    background-image: url("../images/building.png");    
+}
+.header h1 {
+    color: white;    
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;    
+}
+.header a, p {    
+    text-size: 18px;
+    color: white;
+    font-weight: bold;
+}
+p {
+    color: black;
+}
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+}
